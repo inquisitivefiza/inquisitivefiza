@@ -14,7 +14,7 @@
 
 ## 🔗 Connect With Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fiza-khan-09b18b296/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/inquisitivefiza)  
 
 ---
 
