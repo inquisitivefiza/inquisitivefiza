@@ -3,6 +3,13 @@
 
 ---
 
+## 💼 Open to Opportunities  
+- 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**  
+- 💡 Interested in building scalable, real-world mobile applications  
+- 📩 Feel free to reach out via email or LinkedIn  
+
+---
+
 ## 💡 About Me  
 - 🔭 Currently working on **Waste Not** (Food Waste Reduction App)  
 - 🌱 Learning **Advanced Jetpack Compose & Clean Architecture**  
@@ -33,8 +40,8 @@
 - Capture & classify marine species using **TensorFlow Lite**  
 - Geo-tagging + Map visualization  
 
-
 ---
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inquisitivefiza&show_icons=true&theme=tokyonight)  
 
@@ -44,7 +51,7 @@
 
 ## 🧩 Currently Practicing  
 - DSA in Java   
-- Problem Solving on LeetCode 
+- Problem Solving on LeetCode  
 
 ---
 
