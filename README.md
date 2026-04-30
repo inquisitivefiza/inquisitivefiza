@@ -35,10 +35,14 @@
 ### 🍽️ Waste Not  
 - Food waste reduction app connecting donors with recipients  
 - Built using **Jetpack Compose, MVVM, Firebase**  
+- 🚀 Features: Donation tracking, real-time updates, user-friendly UI  
+- 🔗 [View Project](https://github.com/inquisitivefiza/waste-not-app)  
 
 ### 🌊 Marine Species Detection App  
 - Capture & classify marine species using **TensorFlow Lite**  
-- Geo-tagging + Map visualization  
+- Geo-tagging + Map visualization using Mapbox  
+- 🤖 ML-powered classification with CNN model  
+- 🔗 [View Project](https://github.com/inquisitivefiza/marine-species-app)  
 
 ---
 
@@ -50,7 +54,7 @@
 ---
 
 ## 🧩 Currently Practicing  
-- DSA in Java   
+- DSA in Java  
 - Problem Solving on LeetCode  
 
 ---
