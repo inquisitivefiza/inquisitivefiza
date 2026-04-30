@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github)  
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,SQL)  
 
 ---
 
