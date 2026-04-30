@@ -12,7 +12,7 @@
 
 ## 💡 About Me  
 - 🔭 Currently working on **Waste Not** (Food Waste Reduction App)  
-- 🌱 Learning **Advanced Jetpack Compose & Clean Architecture**  
+- 🌱 Learning **Jetpack Compose & Clean Architecture**  
 - 💬 Ask me about **Android, Kotlin, MVVM, APIs, Firebase**  
 - 🧠 Practicing **Data Structures & Algorithms in Java**  
 - 📫 Reach me at: **fizakhandec03@gmail.com**  
