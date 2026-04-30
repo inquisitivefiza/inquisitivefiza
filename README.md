@@ -20,8 +20,10 @@
 ---
 
 ## 🔗 Connect With Me  
+## 🔗 Connect With Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fiza-khan-09b18b296/)  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/inquisitivefiza)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khanfiza3dec004/)
 
 ---
 
