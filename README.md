@@ -35,11 +35,10 @@
 
 
 ---
-
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inquisitivefiza&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=inquisitivefiza&theme=tokyonight)  
 
 ---
 
