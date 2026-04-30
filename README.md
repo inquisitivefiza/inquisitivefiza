@@ -1,48 +1,56 @@
-# Hi, I'm Fiza Khan 👋
-
-🧑‍💻 Android developer exploring Jetpack Compose  
-🔍 Sharpening problem-solving skills with DSA in Java  
-🚀 On a mission to build apps  
-📍 India | 💼 Open to Android fresher roles & internships
+# Hi 👋, I'm Fiza Khan  
+### 🚀 Android Developer | Kotlin | Jetpack Compose | DSA in Java  
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:** Kotlin · Java  
-**Android:** Jetpack Compose · Android SDK · MVVM · Room DB · Retrofit  
-**Tools:** Git · GitHub · Android Studio
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+## 💡 About Me  
+- 🔭 Currently working on **Waste Not** (Food Waste Reduction App)  
+- 🌱 Learning **Advanced Jetpack Compose & Clean Architecture**  
+- 💬 Ask me about **Android, Kotlin, MVVM, APIs, Firebase**  
+- 🧠 Practicing **Data Structures & Algorithms in Java**  
+- 📫 Reach me at: **fizakhandec03@gmail.com**  
 
 ---
 
-## 📱 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [QuizApp](https://github.com/inquisitivefiza/QuizApp) | Quiz app with categories & score tracking | Kotlin, Android |
-| [signuppage](https://github.com/inquisitivefiza/signuppage) | Login & signup UI with form validation | Kotlin, Android |
-| [Android](https://github.com/inquisitivefiza/Android) | Core Android concepts & fundamentals | Kotlin |
+## 🔗 Connect With Me  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fiza-khan-09b18b296/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inquisitivefiza&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inquisitivefiza&layout=compact&theme=dark&hide_border=true)
+## 🛠️ Tech Stack  
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github)  
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-khan-09b18b296/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fizakhandec03@gmail.com)
+### 🍽️ Waste Not  
+- Food waste reduction app connecting donors with recipients  
+- Built using **Jetpack Compose, MVVM, Firebase**  
+
+### 🌊 Marine Species Detection App  
+- Capture & classify marine species using **TensorFlow Lite**  
+- Geo-tagging + Map visualization  
+
 
 ---
 
-> 💼 Actively seeking Android developer internships & fresher roles — feel free to reach out!
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)  
+
+---
+
+## 🧩 Currently Practicing  
+- DSA in Java   
+- Problem Solving on LeetCode 
+
+---
+
+## ✨ Goals  
+- Build impactful Android apps solving real-world problems  
+- Crack a good **Android / SDE role**  
+
+---
