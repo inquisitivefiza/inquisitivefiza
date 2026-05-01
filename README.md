@@ -19,7 +19,18 @@
 ---
 
 ## 🛠️ Tech Stack  
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,sql&perline=7)  
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50"/><br>Kotlin</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50"/><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sql" width="50"/><br>SQL</td>
+  </tr>
+</table>
 
 ---
 
@@ -40,7 +51,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inquisitivefiza&show_icons=true&theme=tokyonight)  
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inquisitivefiza&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=inquisitivefiza&theme=tokyonight)  
 
 ---
