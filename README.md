@@ -12,25 +12,14 @@
 ---
 
 ## 🔗 Connect With Me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fiza-khan-09b18b296/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/inquisitivefiza)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khanfiza3dec004/)  
+
+<a href="https://www.linkedin.com/in/fiza-khan-09b18b296/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> <a href="https://github.com/inquisitivefiza"><img src="https://skillicons.dev/icons?i=github" width="50"/></a> <a href="https://leetcode.com/u/khanfiza3dec004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50"/><br>Kotlin</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50"/><br>Android Studio</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sql" width="50"/><br>SQL</td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=kotlin" width="50"/> <img src="https://skillicons.dev/icons?i=java" width="50"/> <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/> <img src="https://skillicons.dev/icons?i=firebase" width="50"/> <img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=github" width="50"/> <img src="https://skillicons.dev/icons?i=sql" width="50"/>
 
 ---
 
