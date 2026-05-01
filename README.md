@@ -19,7 +19,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,sql)  
+![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github,sql&perline=7)  
 
 ---
 
