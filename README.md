@@ -3,21 +3,18 @@
 
 ---
 
-
 ## 💡 About Me  
-- 🔭 Currently working on **Waste Not** (Food Waste Reduction App)  
-- 🌱 Learning **Jetpack Compose & Clean Architecture**  
+- 🔭 Currently working on **LabLend**  
+- 🌱 Learning **Jetpack Compose and the latest Android development technologies**  
 - 💬 Ask me about **Android, Kotlin, MVVM, APIs, Firebase**  
-- 🧠 Practicing **Data Structures & Algorithms in Java**  
-- 📫 Reach me at: **fizakhandec03@gmail.com**  
+- 📫 Reach me at: **[fizakhandec03@gmail.com](mailto:fizakhandec03@gmail.com)**  
 
 ---
 
 ## 🔗 Connect With Me  
-## 🔗 Connect With Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fiza-khan-09b18b296/)  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/inquisitivefiza)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khanfiza3dec004/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khanfiza3dec004/)  
 
 ---
 
@@ -35,28 +32,24 @@
 - 🔗 [View Project](https://github.com/inquisitivefiza/waste-not-app)  
 
 ### 🌊 Marine Species Detection App  
-- Capture & classify marine species using **TensorFlow Lite**  
-- Geo-tagging + Map visualization using Mapbox  
-- 🤖 ML-powered classification with CNN model  
+- Capture and classify marine species using **TensorFlow Lite**  
+- Geo-tagging and map visualization using Mapbox  
+- 🤖 ML-powered classification with a CNN model  
 - 🔗 [View Project](https://github.com/inquisitivefiza/marine-species-app)  
 
 ---
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inquisitivefiza&show_icons=true&theme=tokyonight)  
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=inquisitivefiza&theme=tokyonight)  
 
 ---
 
 ## 🧩 Currently Practicing  
 - DSA in Java  
-- Problem Solving on LeetCode  
 
 ---
 
-## ✨ Goals  
-- Build impactful Android apps solving real-world problems  
-- Crack a good **Android / SDE role**  
-
----
+## 💼 Open to Opportunities  
+- Actively seeking **Android Developer / Software Engineer** internships and full-time roles  
+- Interested in building scalable, real-world mobile applications
