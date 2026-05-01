@@ -3,9 +3,6 @@
 
 ---
 
- 
-
----
 
 ## 💡 About Me  
 - 🔭 Currently working on **Waste Not** (Food Waste Reduction App)  
