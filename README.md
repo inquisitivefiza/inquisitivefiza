@@ -3,10 +3,7 @@
 
 ---
 
-## 💼 Open to Opportunities  
-- 🎯 Actively seeking **Android Developer / Software Engineer Internships & Full-Time Roles**  
-- 💡 Interested in building scalable, real-world mobile applications  
-- 📩 Feel free to reach out via email or LinkedIn  
+ 
 
 ---
 
