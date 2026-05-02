@@ -28,7 +28,7 @@
 - 🤖 ML-powered classification with a CNN model
 - 🔗 [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)
 
-### 🏧 Vending Machine Simulator – Java · JavaFX · State Design Pattern
+### 🏧 Vending Machine Simulator 
 - Fully animated vending machine simulation built with **Java 17 + JavaFX 21**
 - Implements the **State Design Pattern** — `IdleState`, `HasMoneyState`, `DispensingState` each own their logic; adding a new state means adding one class, not editing existing code
 - **Greedy change algorithm** returns optimal coin combinations (e.g. ₹17 → [₹10, ₹5, ₹2])
