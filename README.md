@@ -24,7 +24,7 @@
 - Capture and classify marine species using **TensorFlow Lite**  
 - Geo-tagging and map visualization using Mapbox  
 - 🤖 ML-powered classification with a CNN model  
-- 🔗 [View Project](https://github.com/inquisitivefiza/marine-species-app)  
+- 🔗 [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)  
 ---
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inquisitivefiza&theme=tokyonight)  
