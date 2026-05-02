@@ -35,7 +35,7 @@
 - **Background daemon thread** (`ScheduledExecutorService`) auto-cancels sessions after 30 s of inactivity; UI updates safely bridged via `Platform.runLater()`
 - Product hierarchy using polymorphism — `Product → Drink / Snack / HotBeverage`
 - ✅ 8 JUnit 5 test cases covering state transitions, invalid coins, timeout & change calculation
-- 🔗 [View Project](https://github.com/inquisitivefiza/YOUR_REPO_NAME)
+- 🔗 [View Project](https://github.com/curiousfalak/VendMac)
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inquisitivefiza&theme=tokyonight)
