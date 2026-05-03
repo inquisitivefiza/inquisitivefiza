@@ -5,7 +5,7 @@
 - 🔭 Currently working on **LabLend**
 - 🌱 Learning **Jetpack Compose and the latest Android development technologies**
 - 💬 Ask me about **Android, Kotlin, MVVM, APIs, Firebase**
-- 📫 Reach me at: **[[fizakhandec03@gmail.com](mailto:fizakhandec03@gmail.com)](mailto:fizakhandec03@gmail.com)**
+- 📫 Reach me at: **[fizakhandec03@gmail.com]**
 ---
 ## 🔗 Connect With Me
 <a href="https://www.linkedin.com/in/fiza-khan-09b18b296/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> <a href="https://github.com/inquisitivefiza"><img src="https://skillicons.dev/icons?i=github" width="50"/></a> <a href="https://leetcode.com/u/khanfiza3dec004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="https://x.com/khanfiza3dec004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
