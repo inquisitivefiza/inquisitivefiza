@@ -23,26 +23,29 @@
 - Integrated **WorkManager** for **constraint-aware background sync** across **5 news categories** every **15 minutes on WiFi-only**, surviving **process death** and **Doze mode** — confirmed via **Background Task Inspector** showing `NewsSyncWorker` actively enqueued with **SystemJobService** scheduled
 
 ### 🧪 LabLend – Lab Equipment Booking System
+**Java · JUnit 5 · HashMap · Queue · Stack** | [View Project](https://github.com/inquisitivefiza/LabLend)
+
 - Lab equipment booking system built with **Java, JUnit 5, Data Structures**
 - Uses **HashMap (O(1))** for inventory lookup, **Queue (FIFO)** for waitlist handling, and **Stack (LIFO)** for booking history
 - 🔧 Features: Max 3 active bookings, unpaid fine restriction, availability checks with structured exception handling
 - ✅ JUnit 5 test cases covering edge conditions (borrow limit, empty queue/stack, fine calculation)
-- 🔗 [View Project](https://github.com/inquisitivefiza/LabLend)
 
 ### 🌊 Nature Lens – Marine Species Detection App
+**TensorFlow Lite · Mapbox · CNN · Android** | [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)
+
 - Capture and classify marine species using **TensorFlow Lite**
 - Geo-tagging and map visualization using Mapbox
 - 🤖 ML-powered classification with a CNN model
-- 🔗 [View Project](https://github.com/curiousfalak/bitbox_bytecrafters)
 
 ### 🏧 VendMac – Vending Machine Simulator
+**Java 17 · JavaFX 21 · JUnit 5 · State Design Pattern · ScheduledExecutorService** | [View Project](https://github.com/curiousfalak/VendMac)
+
 - Fully animated vending machine simulation built with **Java 17 + JavaFX 21**
 - Implements the **State Design Pattern** — `IdleState`, `HasMoneyState`, `DispensingState` each own their logic; adding a new state means adding one class, not editing existing code
 - **Greedy change algorithm** returns optimal coin combinations (e.g. ₹17 → [₹10, ₹5, ₹2])
 - **Background daemon thread** (`ScheduledExecutorService`) auto-cancels sessions after 30 s of inactivity; UI updates safely bridged via `Platform.runLater()`
 - Product hierarchy using polymorphism — `Product → Drink / Snack / HotBeverage`
 - ✅ 8 JUnit 5 test cases covering state transitions, invalid coins, timeout & change calculation
-- 🔗 [View Project](https://github.com/curiousfalak/VendMac)
 
 ---
 ## 📊 GitHub Stats
