@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/fiza-khan-09b18b296/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> <a href="https://github.com/inquisitivefiza"><img src="https://skillicons.dev/icons?i=github" width="50"/></a> <a href="https://leetcode.com/u/khanfiza3dec004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="https://x.com/khanfiza3dec004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 ---
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=kotlin" width="50"/> <img src="https://skillicons.dev/icons?i=java" width="50"/> <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/> <img src="https://skillicons.dev/icons?i=firebase" width="50"/> <img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=github" width="50"/> <img src="https://skillicons.dev/icons?i=idea" width="50"/> <img src="https://skillicons.dev/icons?i=javafx" width="50"/>
+<img src="https://skillicons.dev/icons?i=kotlin" width="50"/> <img src="https://skillicons.dev/icons?i=java" width="50"/> <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/> <img src="https://skillicons.dev/icons?i=firebase" width="50"/> <img src="https://skillicons.dev/icons?i=spring" width="50"/> <img src="https://skillicons.dev/icons?i=docker" width="50"/> <img src="https://skillicons.dev/icons?i=git" width="50"/> <img src="https://skillicons.dev/icons?i=github" width="50"/> <img src="https://skillicons.dev/icons?i=idea" width="50"/> <img src="https://skillicons.dev/icons?i=javafx" width="50"/>
 ---
 ## 🚀 Featured Projects
 
