@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,spring,docker,git,github,idea,javafx,redis,postgres,elasticsearch" width="700"/><br/>
-<img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/><img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/><img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
 
 ---
 ## 🚀 Featured Projects
