@@ -1,10 +1,9 @@
-# Hi 👋, I'm Fiza Khan
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
+# Hi, I'm Fiza Khan 👋
 ### 🚀 Android & Backend Developer | Kotlin | Java | Spring Boot
-
----
-
-## 💡 About Me
 
 - 📱 Android Developer building apps with **Kotlin & Jetpack Compose**
 - ⚙️ Backend Developer working with **Java, Spring Boot & REST APIs**
@@ -12,45 +11,57 @@
 - 💬 Ask me about **Android, Kotlin, Backend APIs, Firebase**
 - 📫 Reach me at: **fizakhandec03@gmail.com**
 
----
-
-## 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/fiza-khan-09b18b296/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> 
-<a href="https://github.com/inquisitivefiza"><img src="https://skillicons.dev/icons?i=github" width="50"/></a> 
-<a href="https://leetcode.com/u/khanfiza3dec004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> 
-<a href="https://x.com/khanfiza3dec004"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
----
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,spring,docker,git,github,idea,javafx,redis,postgres,elasticsearch" width="700"/>
-
 <br/>
 
-<img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiza-khan-09b18b296/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/inquisitivefiza)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/khanfiza3dec004/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/khanfiza3dec004)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fizakhandec03@gmail.com)
+
+  </td>
+  <td width="40%" align="center" valign="top">
+    <img src="https://user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif" width="300" />
+  </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inquisitivefiza&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,spring,docker,git,github,idea,javafx,redis,postgres,elasticsearch" width="700"/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=inquisitivefiza&theme=tokyonight)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JPA Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge)
 
 ---
 
-## 💼 Open to Opportunities
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inquisitivefiza&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inquisitivefiza&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inquisitivefiza&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=inquisitivefiza&theme=tokyonight" />
+</p>
+
+---
+
+### 💼 Open to Opportunities
 
 - Actively seeking **Android Developer / Backend Developer / Software Engineer** internships and full-time roles
 - Interested in building **mobile applications, backend systems, and scalable software solutions**
