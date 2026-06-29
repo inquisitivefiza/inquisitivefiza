@@ -4,7 +4,6 @@
 
 # Hi, I'm Fiza Khan 👋
 ### 🚀 Android & Backend Developer | Kotlin | Java | Spring Boot
-
 - 📱 Android Developer building apps with **Kotlin & Jetpack Compose**
 - ⚙️ Backend Developer working with **Java, Spring Boot & REST APIs**
 - 🌱 Exploring **System Design and scalable application development**
@@ -30,7 +29,7 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,spring,docker,git,github,idea,javafx,redis,postgres,elasticsearch" width="700"/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,spring,nodejs,express,docker,git,github,idea,javafx,redis,postgres,mysql,elasticsearch" width="700"/><br/>
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -42,6 +41,9 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![JPA Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -62,6 +64,5 @@
 ---
 
 ### 💼 Open to Opportunities
-
 - Actively seeking **Android Developer / Backend Developer / Software Engineer** internships and full-time roles
 - Interested in building **mobile applications, backend systems, and scalable software solutions**
