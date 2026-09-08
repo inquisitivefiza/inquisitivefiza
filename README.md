@@ -4,10 +4,10 @@
 
 # Hi, I'm Fiza Khan 👋
 
-### 🚀 Android & Backend Developer | Kotlin | Java | Spring Boot
+### 📱 Android Developer | Kotlin | Jetpack Compose
 
 - 📱 Android Developer building apps with **Kotlin & Jetpack Compose**
-- ⚙️ Backend Developer working with **Java, Spring Boot & REST APIs**
+- ⚙️ Also work backend-side with **Java, Spring Boot & REST APIs**
 - 🌱 Exploring **System Design and scalable application development**
 - 💬 Ask me about **Android, Kotlin, Backend APIs, Firebase**
 - 📫 Reach me at: **fizakhandec03@gmail.com**
@@ -29,25 +29,33 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Android Stack
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,javascript,androidstudio,firebase,spring,nodejs,express,docker,git,github,idea,javafx,redis,postgres,mysql,elasticsearch,supabase" width="700"/><br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github" width="500"/><br/>
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<details>
+<summary>⚙️ Also work with (Backend)</summary>
+<br>
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 ![JPA Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
 
 ---
 
@@ -71,5 +79,5 @@
 
 ### 💼 Open to Opportunities
 
-- Actively seeking **Android Developer / Backend Developer / Software Engineer** internships and full-time roles
-- Interested in building **mobile applications, backend systems, and scalable software solutions**
+- Actively seeking **Android Developer** internships and full-time roles
+- Interested in building **mobile applications with clean, scalable architecture**
